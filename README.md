@@ -10,8 +10,11 @@
 ## 📫 Talk with me, I am kinda awesome:
 
 <a href="https://www.linkedin.com/in/a-polegre/?locale=en_US"><img align="left" src="https://github.com/agusNiko/agusNiko/blob/main/images/LinkedIn.svg" alt="icon | LinkedIn" width="21px"/></a>
+<br />
+<a href="https://twitter.com/anps88"><img align="left" src="https://github.com/agusNiko/agusNiko/blob/main/images/Logo%20blue.svg" alt="icon | LinkedIn" width="21px"/></a>
+<br />
 
-<!-- Actual text -->
+
 
 ## Languages and Tools:
 
@@ -23,8 +26,23 @@
 <img align="left" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=agusNiko&show_icons=true&theme=radical" />
+## Stats
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+ <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=agusNiko&show_icons=true&theme=radical" />
 <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agusNiko&layout=compact" />
+
+</details>
+
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
+![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
+![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=Ruby&color=CC342D)
+![](https://img.shields.io/badge/Code-Ruby_on_Rails-informational?style=flat&logo=Ruby-On-Rails&color=CC0000)
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
+![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
+![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
 
 <!--
 **agusNiko/agusNiko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
