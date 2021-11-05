@@ -5,18 +5,18 @@
 - 🔭 I’m currently working on various projects ( see portfolio ) collaborating with developers and designers. Including the 21Days-Work-out. An app that provides intentional, progressive workout programs with specific nutrition, recovery, and mindset tips along the way.
 - 🌱 I’m currently learning full-stack web development and everything related.
 - 👯 I’m looking to collaborate on open source projects, specially with MERN & MEAN stacks.
-- ⚡ Fun fact: I speak 3 Languages: Spanish, English and German
+- ⚡ Fun fact: I speak 3 Languages: Spanish, English and German.
 
 ## 📫 Talk with me, I am kinda awesome:
 
-<a href="https://www.linkedin.com/in/a-polegre/?locale=en_US"><img align="left" src="https://github.com/agusNiko/agusNiko/blob/main/images/LinkedIn.svg" alt="icon | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/a-polegre/?locale=en_US"><img align="left" src="https://github.com/agusNiko/agusNiko/blob/main/images/LinkedIn.svg" alt="icon | LinkedIn" width="25px"/></a>
+
+<a href="https://twitter.com/anps88"><img align="left" src="https://github.com/agusNiko/agusNiko/blob/main/images/Logo%20blue.svg" alt="icon | LinkedIn" width="25px"/></a>
 <br />
-<a href="https://twitter.com/anps88"><img align="left" src="https://github.com/agusNiko/agusNiko/blob/main/images/Logo%20blue.svg" alt="icon | LinkedIn" width="21px"/></a>
-<br />
 
 
 
-## Languages and Tools:
+## 💼 Languages and Tools:
 
 <img align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 <img align="left" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -31,18 +31,11 @@
   <summary>:zap: GitHub Stats</summary>
 
  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=agusNiko&show_icons=true&theme=radical" />
-<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agusNiko&layout=compact" />
+<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agusNiko&layout=compact&theme=radical" />
 
 </details>
 
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
-![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
-![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=Ruby&color=CC342D)
-![](https://img.shields.io/badge/Code-Ruby_on_Rails-informational?style=flat&logo=Ruby-On-Rails&color=CC0000)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
-![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
-![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
+
 
 <!--
 **agusNiko/agusNiko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
